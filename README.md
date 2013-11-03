@@ -18,6 +18,28 @@
 * Simplecolor-GaojiBlack (简色-高级黑)
 
 
+## 安装方法
+
+第一步当然是 `git clone` 下整个版本库 (当然也可以只下载压缩包啦),
+然后符号链接或者复制你想安装的主题的目录. 下面是示例命令:
+
+```sh
+# 如果只想装到自己用户的话:
+cd ~/.themes
+
+# 请自行替换成你克隆的版本库路径
+ln -s ../repos/simplecolor-themes/主题名 .
+
+
+# 如果想装到全系统:
+sudo -s
+cd /usr/share/themes
+ln -s /home/xxx/repos/simplecolor-themes/主题名 .
+```
+
+这样再打开你的外观/窗口管理器设置, 应该就能看到你链接进来的主题了.
+
+
 ## 参与设计
 
 任何设计方面的改进或者建议都可以提出, 请将它们提交成项目的 issue.
