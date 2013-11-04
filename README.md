@@ -15,7 +15,9 @@
 
 ### xfwm4 主题
 
-* Simplecolor-GaojiBlack (简色-高级黑)
+* [Simplecolor-GaojiBlack][] (简色-高级黑)
+
+[Simplecolor-GaojiBlack]: Simplecolor-GaojiBlack/
 
 
 ## 安装方法
