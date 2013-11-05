@@ -7,6 +7,13 @@
 
 ## Changelog / 更新日志
 
+*   **1.2**
+
+    Make `prelight` icon backgrounds colorful, and color tweaks for Hide and
+    Menu icons.
+
+    让按钮悬浮样式更多彩; 调整了最小化和显示菜单按钮的对应颜色.
+
 *   **1.1**
 
     Added `prelight` and `toggled` (for Stick and Shade) styles for buttons.
